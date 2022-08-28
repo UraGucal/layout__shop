@@ -1,0 +1,24 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "cls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UraGucal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/UraGucal/layouts__shop.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}

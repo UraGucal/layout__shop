@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'TTChocolates';
+  font-weight: 400;
+  font-style: regulat;
+  src: url("../fonts/TT Chocolates Regular.eot"), url("../fonts/TT Chocolates Regular.woff2") format("woff2"), url("../fonts/TT Chocolates Regular.woff") format("woff"), url("../fonts/TT Chocolates Regular.otf") format("otf"), url("../fonts/TT Chocolates Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'TTChocolates';
+  font-weight: 700;
+  font-style: bold;
+  src: url("../fonts/TT Chocolates Bold.eot"), url("../fonts/TT Chocolates Bold.woff2") format("woff2"), url("../fonts/TT Chocolates Bold.woff") format("woff"), url("../fonts/TT Chocolates Bold.otf") format("otf"), url("../fonts/TT Chocolates Bold.ttf") format("truetype");
+}
+/*# sourceMappingURL=fonts.css.map */

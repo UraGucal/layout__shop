@@ -1,0 +1,41 @@
+{
+    "name": "wordpress-builder",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "prod": "webpack --mode production",
+        "start": "webpack --watch --mode development"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "7.12.13",
+        "@babel/preset-env": "7.12.13",
+        "autoprefixer": "10.2.4",
+        "babel-loader": "8.2.2",
+        "clean-webpack-plugin": "3.0.0",
+        "css-loader": "5.0.1",
+        "file-loader": "6.2.0",
+        "image-webpack-loader": "8.1.0",
+        "import-glob-loader": "1.1.0",
+        "mini-css-extract-plugin": "1.3.5",
+        "optimize-css-assets-webpack-plugin": "6.0.0",
+        "path": "0.12.7",
+        "postcss-loader": "4.1.0",
+        "sass": "^1.32.6",
+        "sass-loader": "10.1.1",
+        "style-loader": "2.0.0",
+        "url-loader": "4.1.1",
+        "webpack": "4.46.0",
+        "webpack-cli": "4.9.1",
+        "webpack-dev-server": "4.7.3",
+        "webpack-md5-hash": "0.0.6"
+    },
+    "dependencies": {
+        "jquery": "3.6.0",
+        "js-md5": "0.7.3",
+        "scrollmagic": "2.0.8",
+        "slick-carousel": "1.8.1"
+    }
+}
